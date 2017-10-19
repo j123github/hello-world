@@ -1,9 +1,13 @@
 Markdown
 ========
 
+*   [Documentation](#documentation)
 *   [Examples](#examples)
 *   [Sublime](#sublime)
 
+## Documentation
+
+Canonical Markdown documentation at https://daringfireball.net/projects/markdown/
 
 ## Examples
 
